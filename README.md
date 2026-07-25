@@ -1,6 +1,6 @@
 # Lista de Tarefas (To-Do List)
 
-![Screenshot do Projeto Lista de Tarefas](lista-tarefas.jpeg)
+![Screenshot do Projeto Lista de Tarefas](lista_de_tarefas.jpeg)
 
 ## Demo ao Vivo
 [Ver projeto funcionando](https://mbarros-ux.github.io/Lista-de-tarefas/)
