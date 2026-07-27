@@ -31,3 +31,5 @@ Este projeto foi criado para aprender conceitos de CRUD (Create, Read, Update, D
 1. Clone este repositório:
 ```bash
 git clone https://github.com/mbarros-ux/Lista-de-tarefas.git
+```
+ 2. Abra o arquivo ```index.html``` em seu navegador.
